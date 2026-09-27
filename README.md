@@ -81,7 +81,7 @@ https://github.com/KyleJamesSJSU/BallUp
 
 ---
 
-### CMPE 195  
+### CMPE 195 - Senior Design Project  
 **Fall 2026 — In Progress**
 
 #### FitFuel
