@@ -33,7 +33,7 @@ https://github.com/Sujan30/Team-18-CS151-Term-Project-03-Code-Version-0.2-
 A full-stack campus equipment lending and management platform for students and staff, built with **Node.js**, **React**, and **MySQL**.
 
 **Repo:**  
-Private repository due to course materials.
+(Private repository due to course materials.)
 
 ---
 
@@ -45,7 +45,7 @@ Private repository due to course materials.
 A **Java** web server and Java client built with **Spring Boot**, using a REST API architecture.
 
 **Repo:**  
-Private repository due to course materials.
+(Private repository due to course materials.)
 
 ---
 
@@ -62,7 +62,7 @@ The project also generates charts to visualize and analyze the performance diffe
 Code testing and performance analysis of the differences between the algorithms.
 
 **Repo:**  
-Private repository due to course materials.
+(Private repository due to course materials.)
 
 ---
 
