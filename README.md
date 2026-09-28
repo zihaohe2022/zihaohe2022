@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-![BallUp](./img/CS134_BallUp.png)
+<img src="./img/CS134_BallUp.png" alt="BallUp" width="40%">
 
 You may be interested in **BallUp**, a Unity game created by Kyle and me for our CS 134 course project.
 
