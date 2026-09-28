@@ -17,7 +17,7 @@ https://kylejamessjsu.itch.io/ballup
 
 A student status management system built with **JavaFX** and compiled using **Zulu 25**.
 
-**Responsibilities:**  
+**My Responsibilities:**  
 Code implementation and testing, edge-case testing, bug fixing, code cleanup, and packaging.
 
 **Repo:**  
@@ -58,7 +58,7 @@ A **Python** project designed to test and compare the performance of **ECC**, **
 
 The project also generates charts to visualize and analyze the performance differences between the algorithms.
 
-**Responsibilities:**  
+**My Responsibilities:**  
 Code testing and performance analysis of the differences between the algorithms.
 
 **Repo:**  
@@ -73,7 +73,7 @@ Code testing and performance analysis of the differences between the algorithms.
 
 A Unity game project written in **C#**.
 
-**Responsibilities:**  
+**My Responsibilities:**  
 Asset management, level design, and level implementation.
 
 **Repo:**  
