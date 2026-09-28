@@ -1,4 +1,4 @@
-# Welcome to My GitHub!
+# Hi, I'm Zihao, Welcome to My GitHub Homepage!
 
 <img src="./img/CS134_BallUp.png" alt="BallUp" width="40%">
 
