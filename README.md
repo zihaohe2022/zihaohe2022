@@ -82,9 +82,9 @@ https://github.com/KyleJamesSJSU/BallUp
 ---
 
 ### CMPE 195 — Senior Design Project  
-**Fall 2026 — In Progress**
+**Fall 2026**
 
-#### FitFuel
+#### FitFuel — In Progress
 
 An Android application built with **Kotlin** and **Android Studio** for creating day-to-day diet plans based on a user’s calorie trajectory.
 
