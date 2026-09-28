@@ -67,7 +67,7 @@ Code testing and performance analysis of the differences between the algorithms.
 ---
 
 ### CS 134 — Computer Game Design and Programming  
-**Spring 2025**
+**Spring 2026**
 
 #### BallUp
 
